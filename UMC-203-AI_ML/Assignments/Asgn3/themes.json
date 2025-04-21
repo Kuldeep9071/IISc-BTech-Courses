@@ -1,0 +1,291 @@
+{
+  "racing": {
+      "obstacle": "🚧",
+      "trap": "🔥",
+      "boost": "⛽",
+      "goal": "🏁",
+      "start": "🚦",
+      "path": "🛣️",
+      "agent": "🏎️",
+      "empty": "⬜",
+      "enemy": "🚓",
+      "final_messages": {
+          "Triumph": "🏁 Zoom! You blazed past the finish line!",
+          "TimeOut": "⛽ Out of gas! The race is over.",
+          "Interrupted": "🛑 Race halted! Pit crew pulled you out.",
+          "Defeat": "🚓 Busted! The cops caught up with you!"
+      }
+  },
+  "fantasy": {
+      "obstacle": "🛡️",
+      "trap": "🕸️",
+      "boost": "🧪",
+      "goal": "🏰",
+      "start": "🧙‍♂️",
+      "path": "🌟",
+      "agent": "🐉",
+      "empty": "🟪",
+      "enemy": "🧛",
+      "final_messages": {
+          "Triumph": "🏰 Triumph! The dragon reigns over the realm!",
+          "TimeOut": "🧪 Ran out of magic! The quest fades...",
+          "Interrupted": "👹 Cursed! The quest was halted by dark magic.",
+          "Defeat": "🧛 Ambushed! A vampire slayed the dragon!"
+      }
+  },
+  "ocean": {
+      "obstacle": "🌀",
+      "trap": "🦈",
+      "boost": "🐠",
+      "goal": "🏝️",
+      "start": "🚢",
+      "path": "🌊",
+      "agent": "🚣",
+      "empty": "🟦",
+      "enemy": "🐙",
+      "final_messages": {
+          "Triumph": "🏝️ Aye aye! You discovered the hidden island!",
+          "TimeOut": "🐠 Out of energy... lost in the current.",
+          "Interrupted": "⛈️ Voyage cut short by stormy seas.",
+          "Defeat": "🐙 Tangled! A giant octopus dragged you down!"
+      }
+  },
+  "sci-fi": {
+      "obstacle": "🛰️",
+      "trap": "👾",
+      "boost": "🔋",
+      "goal": "🌌",
+      "start": "👨‍🚀",
+      "path": "🧬",
+      "agent": "🤖",
+      "empty": "⬜",
+      "enemy": "👽",
+      "final_messages": {
+          "Triumph": "🌌 Stellar success! You reached the stars!",
+          "TimeOut": "🔋 Power depleted! Mission failed.",
+          "Interrupted": "🕳️ Pulled into a black hole! The mission was consumed by gravity.",
+          "Defeat": "👽 Infiltrated! Alien dismantled your bot!"
+      }
+  },
+  "pirate": {
+      "obstacle": "🪨",
+      "trap": "💣",
+      "boost": "🍗",
+      "goal": "💰",
+      "start": "🏴‍☠️",
+      "path": "🪙",
+      "agent": "🦜",
+      "empty": "⬜",
+      "enemy": "🦈",
+      "final_messages": {
+          "Triumph": "💰 Treasure secured! You sailed to fortune!",
+          "TimeOut": "🍗 Supplies ran out! The wind left your sails...",
+          "Interrupted": "💀 Surrendered! A surprise raid halted your adventure.",
+          "Defeat": "🦈 Overboard! The shark claimed its prize."
+      }
+  },
+  "desert": {
+      "obstacle": "🪨",
+      "trap": "🌵",
+      "boost": "💧",
+      "goal": "🏕️",
+      "start": "🏜️",
+      "path": "👣",
+      "agent": "🐫",
+      "empty": "🟨",
+      "enemy": "🐍",
+      "final_messages": {
+          "Triumph": "🏕️ Oasis reached! You survived the sands!",
+          "TimeOut": "💧 Parched! You ran out of water...",
+          "Interrupted": "🌪️ Sandstorm struck! Journey cut short.",
+          "Defeat": "🐍 Bitten! The desert claimed its traveler."
+      }
+  },
+  "cyberpunk": {
+      "obstacle": "🔒",
+      "trap": "🪳",
+      "boost": "💾",
+      "goal": "📱",
+      "start": "💻",
+      "path": "🔹",
+      "agent": "👾",
+      "empty": "⬛",
+      "enemy": "🕷️",
+      "final_messages": {
+          "Triumph": "📱 Upload complete! You hacked the system!",
+          "TimeOut": "💾 Drive failed! Power not sustained.",
+          "Interrupted": "🩻 Code flipped! You got hacked instead!",
+          "Defeat": "🕷️ Traced! ICE program fried your code."
+      }
+  },
+  "forest": {
+      "obstacle": "🌲",
+      "trap": "🍄",
+      "boost": "🍯",
+      "goal": "🏡",
+      "start": "🧚",
+      "path": "🍃",
+      "agent": "🐿️",
+      "empty": "🟩",
+      "enemy": "🦉",
+      "final_messages": {
+          "Triumph": "🏡 Safe in your burrow! You made it home!",
+          "TimeOut": "🍯 Ran out of energy before nightfall...",
+          "Interrupted": "🍂 Trail lost in the wind!",
+          "Defeat": "🦉 Hunted! The owl snatched you from above!"
+      }
+  },
+  "sherlock": {
+      "obstacle": "🪟",
+      "trap": "🧨",
+      "boost": "🧃",
+      "goal": "📜",
+      "start": "🕰️",
+      "path": "🔍",
+      "agent": "🕵🏻‍♀️",
+      "empty": "⬜",
+      "enemy": "🕴️",
+      "final_messages": {
+          "Triumph": "📜 Case closed! The final clue cracked it all.",
+          "TimeOut": "🕰️ Time’s up! The criminal vanished without a trace.",
+          "Interrupted": "🧨 Boom! You walked right into a trap.",
+          "Defeat": "🕴️ Outwitted! The mastermind got away this time."
+      }
+  },
+  "haunted_mansion": {
+      "obstacle": "🚪",
+      "trap": "👻",
+      "boost": "🔮",
+      "goal": "🛏️",
+      "start": "🕯️",
+      "path": "🌫️",
+      "agent": "🧑‍🦱",
+      "empty": "⬛",
+      "enemy": "💀",
+      "final_messages": {
+          "Triumph": "🛏️ You banished the spirit and found a safe room!",
+          "TimeOut": "🕯️ The candle burned out... lost in the dark.",
+          "Interrupted": "👻 A wailing ghost shattered your focus.",
+          "Defeat": "💀 Possessed! The mansion claimed your soul."
+      }
+  },
+  "kitchen_chaos": {
+      "obstacle": "🔪",
+      "trap": "🧽",
+      "boost": "🥦",
+      "goal": "🍽️",
+      "start": "🍳",
+      "path": "🛒",
+      "agent": "🧑‍🍳",
+      "empty": "⬜",
+      "enemy": "🐀",
+      "final_messages": {
+          "Triumph": "🍽️ Dish served! A delicious masterpiece!",
+          "TimeOut": "🥦 Out of ingredients... and time!",
+          "Interrupted": "🔥 Fire in the kitchen! Chaos erupted!",
+          "Defeat": "🧂 Oversalted! The critics walked out!"
+      }
+  },
+  "ninja": {
+      "obstacle": "🪨",
+      "trap": "🕸️",
+      "boost": "🍙",
+      "goal": "⛩️",
+      "start": "🌑",
+      "path": "👣",
+      "agent": "🥷",
+      "empty": "⬛",
+      "enemy": "🐉",
+      "final_messages": {
+          "Triumph": "⛩️ Mission complete! You slipped through the sacred gate undetected.",
+          "TimeOut": "🌘 Night fades... your stealth mission failed.",
+          "Interrupted": "💥 Ambush! Your cover was blown mid-mission.",
+          "Defeat": "🐉 Defeated by the guardian dragon! Your stealth was no match for ancient fire."
+      }
+  },
+  "samurai": {
+      "obstacle": "🧱",
+      "trap": "🔥",
+      "boost": "🍵",
+      "goal": "⛩️",
+      "start": "🌅",
+      "path": "🛤️",
+      "agent": "🧑‍🌾",
+      "empty": "⬜",
+      "enemy": "👹",
+      "final_messages": {
+          "Triumph": "⛩️ The warrior has passed through the sacred gate — honor is restored.",
+          "TimeOut": "🌄 Dusk falls... your path of honor was incomplete.",
+          "Interrupted": "⚔️ Interrupted! You were challenged before your journey's end.",
+          "Defeat": "👹 Fallen! A demon warrior has defeated you."
+      }
+  },
+  "pre-historic": {
+      "obstacle": "🌋",
+      "trap": "🦂",
+      "boost": "🥚",
+      "goal": "🌳",
+      "start": "🌴",
+      "path": "🍃",
+      "agent": "🦕",
+      "empty": "⬜",
+      "enemy": "🦖",
+      "final_messages": {
+          "Triumph": "🌳 Survival! You reached the safety of the jungle!",
+          "TimeOut": "🥚 Too late! The nest was abandoned...",
+          "Interrupted": "🌋 Volcanic rumble! Your journey was cut short.",
+          "Defeat": "🦖 Ambushed! A predator took you down."
+      }
+  },
+  "ice_age": {
+      "obstacle": "🧊",
+      "trap": "🌨️",
+      "boost": "❄️",
+      "goal": "🏔️",
+      "start": "🦣",
+      "path": "🧤",
+      "agent": "🐘",
+      "empty": "⬜",
+      "enemy": "🐅",
+      "final_messages": {
+          "Triumph": "🏔️ You braved the freeze and reached the icy peak!",
+          "TimeOut": "🥶 Frozen! The cold claimed you before you arrived.",
+          "Interrupted": "❄️ Avalanche! Your trek was buried in snow.",
+          "Defeat": "🐅 Hunted! The saber-tooth pounced in the blizzard."
+      }
+  },
+  "zombie": {
+      "obstacle": "🚧",
+      "trap": "🧟",
+      "boost": "🧠",
+      "goal": "🏚️",
+      "start": "🚪",
+      "path": "🚶",
+      "agent": "🧑‍🚒",
+      "empty": "⬛",
+      "enemy": "🧟‍♂️",
+      "final_messages": {
+          "Triumph": "🏚️ Safehouse reached! You escaped the horde!",
+          "TimeOut": "🧠 Out of brains... you couldn’t keep going.",
+          "Interrupted": "🚨 Sirens blared! You had to reroute.",
+          "Defeat": "🧟‍♂️ Bitten! You joined the undead."
+      }
+  },
+  "mummy": {
+      "obstacle": "🧱",
+      "trap": "⚰️",
+      "boost": "🏺",
+      "goal": "⚱️",
+      "start": "🪔",
+      "path": "🦶",
+      "agent": "🕵️‍♂️",
+      "empty": "⬜",
+      "enemy": "🧟‍♀️",
+      "final_messages": {
+          "Triumph": "⚱️ The tomb is unlocked! Ancient treasure is yours!",
+          "TimeOut": "🏺 Time ran out... the sands reclaimed the path.",
+          "Interrupted": "🪔 Torch flickered out — your expedition failed.",
+          "Defeat": "🧟‍♀️ Cursed! The mummy rose and claimed your soul."
+      }
+  }
+}
